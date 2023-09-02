@@ -1,1 +1,2 @@
 # Video_Game_Analysis
+This project covers every step of the data analysis pipeline, from importing and preprocessing the dataset to data visualization and model building. I've meticulously cleaned the data, handled missing values, engineered features, treated outliers using winzorization, and encoded categorical variables. The visualization section offers insights into trends and correlations within the dataset, presented through interactive and informative charts.
